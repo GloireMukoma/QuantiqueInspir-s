@@ -1,4 +1,4 @@
-package com.example.challengeapp;
+package com.example.challengeapp.beans;
 
 public class Song {
     private int id;

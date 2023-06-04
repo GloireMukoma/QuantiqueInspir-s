@@ -10,7 +10,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.example.challengeapp.Song;
+import com.example.challengeapp.beans.Song;
 import com.example.challengeapp.R;
 
 import java.util.ArrayList;
